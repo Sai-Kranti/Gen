@@ -39,5 +39,7 @@ public class CustomColorAndFontActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), TabMessage.get(tabId, true), Toast.LENGTH_LONG).show();
             }
         });
+
+
     }
 }
